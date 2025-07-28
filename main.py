@@ -5,7 +5,7 @@ import subprocess
 mkvpropedit_path = r"C:\Program Files\MKVToolNix\mkvpropedit.exe"
 
 # Root folder to start scanning
-root_dir = r"C:\Users\iirusham\Documents\1\New folder"  # <-- Change this to your target folder
+root_dir = r"C:\Path\To\Your\MKV\Files"  # <-- Change this to your target folder
 
 def remove_title_metadata(root, tool_path):
     for dirpath, _, filenames in os.walk(root):
