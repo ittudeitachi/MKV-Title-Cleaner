@@ -1,6 +1,5 @@
 # MKV Title Cleaner
 
-![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![Release](https://img.shields.io/github/v/release/ittudeitachi/MKV-Title-Cleaner)
 
