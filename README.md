@@ -1,5 +1,9 @@
 # MKV Title Cleaner
 
+![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Release](https://img.shields.io/github/v/release/ittudeitachi/MKV-Title-Cleaner)
+
 🧹 A lightweight Python script to recursively remove the `title` metadata from `.mkv` files using `mkvpropedit` from the [MKVToolNix](https://mkvtoolnix.download/) suite.
 
 ---
