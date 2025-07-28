@@ -67,11 +67,18 @@ It will:
 
 ---
 
-## 📜 License
+## 🪪 License
 
-This project is licensed under the **MIT License** (with attribution clause).  
-If you distribute this software or derivative works, you must include attribution to the original project:
+This project is licensed under the **MIT License**  
+See the [LICENSE](LICENSE) file for full details.
 
-> _"MKV Title Cleaner by Ibrahim Irusham Rashad"_ in your documentation or user interface.
+> You must include attribution to the original project:  
+> **"MKV Title Cleaner by Ibrahim Irusham Rashad"** in your documentation or user interface if you distribute this software or any derivative work.
 
-See [LICENSE](LICENSE) for full details.
+---
+
+## 🙏 Acknowledgments
+
+- [MKVToolNix](https://mkvtoolnix.download/) — particularly mkvpropedit, the core utility enabling fast, in-place MKV metadata editing.
+
+> This project is not affiliated with or endorsed by MKVToolNix. This tool is for educational and personal use only.
